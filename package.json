@@ -7,7 +7,7 @@
   "scripts": {
     "start": "npm run dev:nodeTools",
     "dev:nodeTools": "nodeppt serve nodeTools/slide.md",
-    "build:nodeTools": "nodeppt build nodeTools/slide.md --dest dist/nodeTools",
+    "build:nodeTools": "nodeppt build nodeTools/slide.md --dest docs/nodeTools",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
