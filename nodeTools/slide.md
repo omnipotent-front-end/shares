@@ -122,7 +122,7 @@ Google 开源的高性能 JavaScript 引擎，以 C++ 实现。这也是集成�
 
 :::card
 
-![](http://edu-image.nosdn.127.net/74f66c2ae7c54e8dbadba9cbfe566c7b.jpg?imageView&quality=100)
+![](http://edu-image.nosdn.127.net/9753ec47b7464eca95d4da4612866255.jpg?imageView&quality=100)
 
 ---
 
@@ -593,7 +593,7 @@ const webpackConfig = {
   });
 ```
 
-<slide class="bg-black slide-top" image="http://edu-image.nosdn.127.net/f4b0ed19008d459cb48420c3ef848319.jpg?imageView&quality=100">
+<slide class="bg-black slide-top" image="http://edu-image.nosdn.127.net/cd7d0bc7c40d4456a95a8687f0ee3b38.jpg?imageView&quality=100">
 
 :::{.content-center}
 
@@ -652,7 +652,7 @@ const webpackConfig = {
 :::
 
 
-<slide class="bg-black aligncenter" image="http://edu-image.nosdn.127.net/6972ae45a8dd470ca8bd40ce9d578b59.jpg?imageView&quality=100 .dark">
+<slide class="bg-black aligncenter" image="http://edu-image.nosdn.127.net/7800ce37769942c588a683ecd561435a.jpg?imageView&quality=100 .dark">
 
 ## 完成页面数量 
 
@@ -726,4 +726,4 @@ const webpackConfig = {
 
 好好度个假 {.text-intro.animated.fadeInUp.delay-500}
 
-[:fa-github: Github](https://github.com/ksky521/nodeppt){.button.ghost.animated.flipInX.delay-1200}
+[:fa-github: Github](https://omnipotent-front-end.github.io/shares/docs/nodeTools/slide.html#slide=1){.button.ghost.animated.flipInX.delay-1200}
