@@ -1,0 +1,27 @@
+{
+  "name": "shares",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run dev:nodeTools",
+    "dev:nodeTools": "nodeppt serve nodeTools/slide.md",
+    "build:nodeTools": "nodeppt build nodeTools/slide.md --dest dist/nodeTools",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omnipotent-front-end/shares.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omnipotent-front-end/shares/issues"
+  },
+  "homepage": "https://github.com/omnipotent-front-end/shares#readme",
+  "devDependencies": {
+    "nodeppt": "^2.2.2"
+  }
+}
