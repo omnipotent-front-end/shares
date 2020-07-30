@@ -726,4 +726,4 @@ const webpackConfig = {
 
 好好度个假 {.text-intro.animated.fadeInUp.delay-500}
 
-[:fa-github: Github](https://omnipotent-front-end.github.io/shares/docs/nodeTools/slide.html#slide=1){.button.ghost.animated.flipInX.delay-1200}
+![img](http://edu-image.nosdn.127.net/515ad2f1aca24662bed85bffd3417ba5.jpg?imageView&quality=100){.animated.flipInX.delay-1200}
